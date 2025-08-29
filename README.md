@@ -31,8 +31,7 @@ vue-shop/
 │── package.json
 │── vite.config.js
 
-yaml
-نسخ الكود
+
 
 ---
 
@@ -47,14 +46,14 @@ npm install
 Start development server:
 
 bash
-نسخ الكود
+
 npm run dev
 The app will be available at:
 👉 http://localhost:5173/
 
 📦 Build for Production
 bash
-نسخ الكود
+
 npm run build
 🌍 Live Demo
 Deployed on Vercel:
@@ -75,5 +74,5 @@ GitHub: @MOHAmED3467
 
 Portfolio: coming soon
 
-yaml
-نسخ الكود
+
+
